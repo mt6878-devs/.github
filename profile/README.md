@@ -1,6 +1,7 @@
 ## AOSP development for the Redmi Note 14 Pro 5G and POCO X7 5G codenamed `malachite`
 
 ### Required Hardware/SEPolicy repositories
+* [**Dolby Atmos**](https://github.com/mt6878-devs/android_packages_apps_XiaomiDolby) (`android_packages_apps_XiaomiDolby`)
 * [**MediaTek SEPolicy**](https://github.com/mt6878-devs/android_device_mediatek_sepolicy_vndr) (`android_device_mediatek_sepolicy_vndr`)
 * [**MediaTek Hardware**](https://github.com/mt6878-devs/android_hardware_mediatek) (`android_hardware_mediatek`)
 * [**MediaTek IMS**](https://github.com/mt6878-devs/android_vendor_mediatek_ims) (`android_vendor_mediatek_ims`)
