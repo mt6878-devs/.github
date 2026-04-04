@@ -7,6 +7,5 @@
 * [**Xiaomi Hardware**](https://github.com/mt6878-devs/android_hardware_xiaomi) (`android_hardware_xiaomi`)
 
 ### Required patches
-* [**WPA3 Fix**](https://github.com/mt6878-devs/android_external_wpa_supplicant_8/commit/080ce1dda760ca3400e92564ece36d4628ac55e8) (`android_external_wpa_supplicant_8`)
 * [**60FPS in Aperture**](https://github.com/mt6878-devs/android_packages_apps_Aperture/commit/cac8663b6af40a5d0a873363d527b5a5b83f5c7d) (`android_packages_apps_Aperture`)
 * [**Allow disabling video stabilization**](https://github.com/mt6878-devs/android_packages_apps_Aperture/commit/b25926558eebf29b7264bce6f39d04535b6d289a) (`android_packages_apps_Aperture`)
